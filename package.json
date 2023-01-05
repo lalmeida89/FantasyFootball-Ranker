@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "devDependencies": {
-    "react-scripts": "^1.0.17"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "font-awesome": "^4.7.0",
